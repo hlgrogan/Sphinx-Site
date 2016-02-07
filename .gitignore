@@ -46,7 +46,7 @@ bitnami.css
 dashboard/*
 localwp/*
 localwp/wp-content/*
-!localwp/wp-includes/*
+!localwp/wp-includes
 img/module_table_top.png
 xampp/*
 favicon.ico
