@@ -43,7 +43,12 @@ Temporary Items
 .apdisk
 applications.html
 bitnami.css
-dashboard/404.html
-dashboard/de/faq.html
-dashboard/de/howto.html
-dashboard/de/howto_platform_links.html
+dashboard/*
+localwp/*
+localwp/wp-content/*
+!localwp/wp-includes/*
+img/module_table_top.png
+xampp/*
+favicon.ico
+img/module_table_bottom.png
+index.php
