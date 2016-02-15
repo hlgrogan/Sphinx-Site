@@ -47,6 +47,6 @@ dashboard/*
 img/module_table_top.png
 favicon.ico
 xampp/*
-!htdocs/*
+!localwp/*
 img/module_table_bottom.png
 index.php
