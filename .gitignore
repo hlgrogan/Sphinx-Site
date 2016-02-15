@@ -45,7 +45,8 @@ applications.html
 bitnami.css
 dashboard/*
 img/module_table_top.png
-xampp/*
 favicon.ico
+xampp/*
+!htdocs/*
 img/module_table_bottom.png
 index.php
